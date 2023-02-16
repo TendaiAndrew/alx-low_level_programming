@@ -1,8 +1,7 @@
 #include <stdio.h>
 /**
- * main - print a c program using printf
- *
- * Return: 0
+ * * main - Print out a string to stdout
+ * * Return: 0 if success
  */
 
 int main(void)
